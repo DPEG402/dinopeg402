@@ -1,0 +1,22 @@
+# secrets — never commit keys/tokens/env
+secrets/
+*.key
+*.token
+*.pem
+*.mnemonic
+.env
+.env.*
+
+# foundry build artifacts + deps
+out/
+cache/
+lib/
+broadcast/
+
+# python
+__pycache__/
+*.pyc
+*.db
+
+# misc
+.DS_Store

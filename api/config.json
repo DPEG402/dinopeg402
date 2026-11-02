@@ -1,0 +1,17 @@
+{
+  "chainId": 56,
+  "chainName": "BNB Smart Chain",
+  "rpc": "https://bsc-dataseed.binance.org",
+  "logsRpc": "https://bsc-rpc.publicnode.com",
+  "explorer": "https://bscscan.com",
+  "usdt": "0x55d398326f99059fF775485246999027B3197955",
+  "registry": "0x60B9262456dE011F7d15a54CdD8c48bAaa8B022F",
+  "factory": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
+  "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+  "tokenAddr": "0x4037aB5eD43a332BF14e7E13504587e3b8cD0C27",
+  "mintAddr": "0xEc77268Fbb7e8b62D1dE8b913440d301c7B8CF55",
+  "rendererAddr": "0x63e111D60539eCc6f6E0b043d22221B3C7030C13",
+  "signer": "0x729c60AE7d2682032511BF4666De1E2B713F7Ee7",
+  "startBlock": 131214665,
+  "deployed": true
+}

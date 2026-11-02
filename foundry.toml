@@ -1,0 +1,17 @@
+[profile.default]
+src = "src"
+test = "test"
+out = "out"
+libs = ["lib"]
+solc = "0.8.24"
+optimizer = true
+optimizer_runs = 200
+via_ir = true
+remappings = [
+    "solady/=lib/solady/src/",
+    "dn404/=lib/dn404/src/",
+    "@openzeppelin/=lib/openzeppelin-contracts/",
+    "forge-std/=lib/forge-std/src/",
+]
+
+# DinoPeg402 ($DPEG402) — first-draft suite. Do not deploy from here.
